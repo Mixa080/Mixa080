@@ -51,10 +51,3 @@
 
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://media1.tenor.com/m/5IPHnjSoX2QAAAAd/jo-jos-bizarre-adventure-jojo.gif" alt="JOJO" />
-
-###
