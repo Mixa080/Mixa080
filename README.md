@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/5IPHnjSoX2QAAAAd/jo-jos-bizarre-adventure-jojo.gif"  />
 
 ###
 
@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg(https://tenor.com/bkXxF.gif)" alt="JOJO" />
+<img src="https://media1.tenor.com/m/5IPHnjSoX2QAAAAd/jo-jos-bizarre-adventure-jojo.gif" alt="JOJO" />
 
 ###
